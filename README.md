@@ -51,7 +51,7 @@ Veri kümesi `persona.csv` dosyasından okunmaktadır. Bu dosya, kullanıcılar�
 ```python
 new_user_1 = "TUR_ANDROID_FEMALE_31_40"
 agg_df[agg_df["customers_level_based"] == new_user_1]
-
+```
 ## 📄 Lisans
 
 Bu proje eğitim amaçlı olarak hazırlanmıştır. Herkese açıktır ve dilediğiniz gibi geliştirip kullanabilirsiniz.
